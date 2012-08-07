@@ -1,0 +1,6 @@
+[submodule "QuickDialog"]
+	path = QuickDialog
+	url = git@github.com:escoz/QuickDialog.git
+[submodule "vendor/SimpleView"]
+	path = vendor/SimpleView
+	url = git://github.com/seanho/SimpleView.git
